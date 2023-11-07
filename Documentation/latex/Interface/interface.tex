@@ -1,0 +1,32 @@
+\subsection{Interfaces overview}
+
+\definecolor{interface_red}{HTML}{4472c4}
+\definecolor{interface_blue}{HTML}{c00000}
+\definecolor{interface_green}{HTML}{6da647}
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}{0.6\linewidth}
+        \includegraphics[width=\linewidth]{images/interface/subsystem_overall_interface.png} 
+    \end{subfigure}
+    \label{fig:subsystem_overall_interface}
+    \caption{
+        Ground Segment Interfaces,
+        \textcolor{interface_red}{Mechanical}, % 4472c4
+        \textcolor{interface_blue}{Data and cmd} and % c00000
+        \textcolor{interface_green}{Video and cmd} % 6da647
+    }
+\end{figure}
+
+
+\subsection{Interfacing with Avionics}
+\input{Interface/av.tex}
+
+\subsection{Interfacing with Propulsion}
+\input{Interface/pr.tex}
+
+\subsection{Interfacing with Structure}
+\input{Interface/st.tex}
+
+\subsection{Internal interfaces}
+\input{Interface/internal.tex}
