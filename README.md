@@ -15,7 +15,7 @@ This is part of the Firehorn project, created by the EPFL Rocket Team. The goal 
 This repository is one of six repositories on this Git account dedicated to all the code within the ground segment subsystem. 
 
 On the same account you'll find the other repositories
-- [**Control**](https://github.com/LaGSdeKarlHeinz/LPCamera) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ground Segment Control (GUI, ...) 
+- [**Control**](https://github.com/LaGSdeKarlHeinz/Control) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ground Segment Control (GUI, ...) 
 - [**Motherboard**](https://github.com/LaGSdeKarlHeinz/Motherboard) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motherboard interfacing Radioboard and GSC
 - [**RadioBoard**](https://github.com/LaGSdeKarlHeinz/Radioboard) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Radio Communications boards
 - [**Tracker**](https://github.com/LaGSdeKarlHeinz/Tracker) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rocket Tracker, both Antenna and Camera
